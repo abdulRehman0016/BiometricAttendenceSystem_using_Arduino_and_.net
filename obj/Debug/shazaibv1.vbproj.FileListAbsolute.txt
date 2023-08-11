@@ -1,0 +1,12 @@
+C:\Users\ARZ\source\repos\shazaibv1\bin\Debug\shazaibv1.exe.config
+C:\Users\ARZ\source\repos\shazaibv1\bin\Debug\shazaibv1.exe
+C:\Users\ARZ\source\repos\shazaibv1\bin\Debug\shazaibv1.pdb
+C:\Users\ARZ\source\repos\shazaibv1\bin\Debug\shazaibv1.xml
+C:\Users\ARZ\source\repos\shazaibv1\obj\Debug\shazaibv1.vbproj.AssemblyReference.cache
+C:\Users\ARZ\source\repos\shazaibv1\obj\Debug\shazaibv1.Form1.resources
+C:\Users\ARZ\source\repos\shazaibv1\obj\Debug\shazaibv1.Resources.resources
+C:\Users\ARZ\source\repos\shazaibv1\obj\Debug\shazaibv1.vbproj.GenerateResource.cache
+C:\Users\ARZ\source\repos\shazaibv1\obj\Debug\shazaibv1.vbproj.CoreCompileInputs.cache
+C:\Users\ARZ\source\repos\shazaibv1\obj\Debug\shazaibv1.exe
+C:\Users\ARZ\source\repos\shazaibv1\obj\Debug\shazaibv1.xml
+C:\Users\ARZ\source\repos\shazaibv1\obj\Debug\shazaibv1.pdb
